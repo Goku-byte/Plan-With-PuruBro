@@ -7,7 +7,7 @@ const Card = ({
   price,
   image,
   removeTour,
-  addTour,
+  addTour ,
   notInterestedButton,
 }) => {
   let description = `${info.substring(0, 200)}...`;

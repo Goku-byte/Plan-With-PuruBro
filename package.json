@@ -10,7 +10,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage":"http://PuruBro2407.github.io/Goku-Plans"
+    "homepage":"http://PuruBro2407.github.io/Plan-With-Goku"
   },
   "scripts": {
     "start": "react-scripts start",
